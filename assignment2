@@ -18,10 +18,10 @@
      <br>
     <!--Ques-2: Design a HTML page creating hyperlink for text, images and all media elements.-->
     <br>
-    <p>Click Here. It will redirect you to my GitHub Profile: <a href="https://github.com/Aaryansinghal286/HTML-CSE--11.git" >GitHub</a></p> <!--Hyperlink-->
-    <p>Click Here to see sample image : <a href="./image.jpg">Image</a></p> <!--Hyperlink(images)-->
-    <p>Click here to watch a sample video: <a href="./171007-844433279_tiny.mp4">Sample_Video</a></p> <!--Hyperlink(video)-->
-    <p>Click here to listen to a sample audio: <a href="./sunflower-street-drumloop-85bpm-163900.mp3">Sample_Audio</a></p> <!--Hyperlink(audio)-->
+    <p>Click Here. It will redirect you to my GitHub Profile: <a href="https://github.com/Aaryansinghal286/HTML-CSE--11.git" >GitHub</a></p> 
+    <p>Click Here to see sample image : <a href="./image.jpg">Image</a></p>
+    <p>Click here to watch a sample video: <a href="./171007-844433279_tiny.mp4">Sample_Video</a></p>
+    <p>Click here to listen to a sample audio: <a href="./sunflower-street-drumloop-85bpm-163900.mp3">Sample_Audio</a></p>
      
 </body>
 </html>
